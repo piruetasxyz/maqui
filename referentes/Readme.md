@@ -5,6 +5,12 @@ step sequencers:
 * squarp pyramid
 * polyend seq & poly
 * korg sq-64
+* korg sq-10
+* korg sq-1
+* roland tr-808
+* sequentix cirklon
+* arturia beatstep pro
+* synthstrom deluge
 
 fabricantes:
 * bastl instruments
