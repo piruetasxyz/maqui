@@ -20,6 +20,7 @@ fabricantes:
 * winterbloom
 * 22bits
 * oskitone
+* bleep labs
 
 artistas:
 * ela minus
