@@ -1,3 +1,18 @@
 # maqui
 
-secuenciador MIDI, para artistas frikis, con un sello de identidad latina-chilena, y que será el primero del ecosistema de instrumentos musicales de piruetas
+secuenciador MIDI, hecho por @piruetas.xyz
+
+## nombre
+
+se llama maqui por dos razones
+
+1. maqui como versión corta de maquinita
+2. maqui como referencia a la fruta
+
+## repositorios asociados
+
+1. <https://github.com/piruetasxyz/maqui_library>: biblioteca de Arduino para maqui.
+
+## gente
+
+andrés martin mena hizo su práctica profesional de diseño uchile, construyendo un prototipo mecánico, con carcasa y soluciones de PCB baratas y rápidas para el proyecto.
