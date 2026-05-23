@@ -18,7 +18,7 @@ se llama maqui por dos razones
 
 ## gente
 
-andrés martin mena hizo su práctica profesional de diseño uchile, construyendo un prototipo mecánico, con carcasa y soluciones de PCB baratas y rápidas para el proyecto.
+andrés martin mena hizo su práctica profesional de diseño uchile, construyendo un prototipo mecánico, con modelos 3D de carcasa, botones y perillas, además de propuestas y soluciones de PCB baratas y rápidas para el proyecto.
 
 ## valores
 
@@ -26,3 +26,7 @@ andrés martin mena hizo su práctica profesional de diseño uchile, construyend
 2. construcción barata.
 3. licencia permisible.
 4. desarrollo en español
+
+## bill of materials
+
+* Arduino Uno R4 Wifi
