@@ -29,4 +29,7 @@ andrés martin mena hizo su práctica profesional de diseño uchile, construyend
 
 ## bill of materials
 
-* Arduino Uno R4 Wifi
+* 01x Arduino Uno R4 Wifi
+* 01x Carcasa impresa en 3D
+* 01x Botones impresos en 3D
+* 01x Perillas impresas en 3D
